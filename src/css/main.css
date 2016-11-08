@@ -1,0 +1,14 @@
+body {
+	background-image: url('https://s-media-cache-ak0.pinimg.com/originals/ac/62/32/ac623251d832edf35ac6d173ba56fd3c.jpg');
+}
+
+h1 {
+	color:	#fff;
+	text-align: center;
+	font-weight: bold;
+}
+
+h4, a, div, p {
+	color: #fff;
+	font-weight: bold;
+}
